@@ -5,3 +5,9 @@ body {
   font-family: Roboto, serif;
   background-color: #0a1825;
 }
+
+.btn {
+
+clip-path: polygon(5% 0, 100% 0, 100% 75%, 95% 100%, 0 100%, 0% 25%);
+border-radius: 0rem;
+}
